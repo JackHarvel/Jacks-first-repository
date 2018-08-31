@@ -2,38 +2,27 @@
   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <title> Your page title goes here </title>
-  </head>
+
+<head>
+    <title> Jack Harvel's First Website </title>
+</head>
 
   <body>
-    <h1> My first web page </h1>
-    <p> first paragraph </p>
-    <p> a second paragraph </p>
-    <ol>
-      <li> cats </li>
-      <li> cat food </li>
-      <li> cats in hats </li>
-      <li> cats </li>
-    </ol>
-    <img src="crimson chin.jpg" alt="the crimson chin">
+    <h1> Jack Harvel's First Website </h1>
+    <p> Email: jshrv6@mail.missouri.edu or JackHarvel@gmail.com </p>
+    <p> Click the link to email </p>
+    <a href="mailto:jshrv6@mail.missouri.edu">
+      <img src="WEBSITE_Profilepic.JPG" alt="Jack at a tailgate" height="300px" width="300px"/>
+    </a>
+  
+
+    <ul>
+      <li> <a href="https://www.columbiamissourian.com/news/local/both-lanes-open-after-semi-crash-on-i--by/article_acbe53ce-ab96-11e8-b97b-0f3ad8766d6c.html">  My first published photo in the Missourian </a>  </li>
+      <li> <a href="Index2"> Or find the photo file in this link:  </a> </li>
+    </ul>
+
+    <p> What is red and smells like blue paint? </p>
+    <p> Red paint. </p>
   </body>
-    <h1> This is an H1 for some reason </h1>
-    <p> a paragraph </p>
-
-  <ul>
-    <li> a link to the apple website, UL is unordered lists </li>
-      <a href="apple.com">
-    <li><a href="index2.html">a second link somewhere in site</a></li>
-  </ul>
-
-  <img src="find pic source">
-    <p> make a joke </p>
-    <p> Oh boy do we love Apple produces <a href="https://www.apple.com"></p>
-
-
-
-
-
 
 </html>
